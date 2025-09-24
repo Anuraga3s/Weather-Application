@@ -10,8 +10,7 @@ A React-based weather app that shows current weather and forecasts based on your
 - Animated weather icons
 - Responsive design for all devices
 
-## Demo
-https://anuraga3s.github.io/Weather-Application/
+## Try it here
 Check out the live app here:  
 [https://anuraga3s.github.io/Weather-Application/](https://anuraga3s.github.io/Weather-Application/)
 
